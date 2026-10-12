@@ -15,17 +15,16 @@ A structured study of graph theory covering fundamental concepts, theoretical re
 - **Disjoint Set Union (DSU):** Operations, optimizations, and applications
 - **Kruskal's Algorithm:** Minimum spanning tree construction and network optimization
 
-## Implementation
+## Implementations (C++)
 
-Graph algorithms and data structures are explored through **C++ implementations**, including:
-
-- Graph representation using adjacency lists and adjacency matrices
-- BFS and DFS traversal
-- Connected component identification
-- Bipartite graph analysis
-- Shortest-path computation
-- Weighted graph algorithms
-- DSU and Kruskal's algorithm
+| Algorithm | File |
+|---|---|
+| Graph Representation | [graph_representation.cpp](implementations/graph_representation.cpp) |
+| Breadth-First Search | [bfs.cpp](implementations/bfs.cpp) |
+| Depth-First Search | [dfs.cpp](implementations/dfs.cpp) |
+| Bipartite Check | [bipartite_check.cpp](implementations/bipartite_check.cpp) |
+| Dijkstra's Algorithm | [dijkstra.cpp](implementations/dijkstra.cpp) |
+| Kruskal's Algorithm | [kruskal.cpp](implementations/kruskal.cpp) |
 
 ## Repository Contents
 
